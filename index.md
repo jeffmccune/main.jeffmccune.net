@@ -1,5 +1,5 @@
 ---
-title: Jeff McCune
+title: main.jeffmccune.net
 ---
 
 # main.jeffmccune.net
